@@ -2,6 +2,8 @@
 
 A Gridfs backend for [Refile](https://github.com/elabs/refile).
 
+[![Code Climate](https://codeclimate.com/github/Titinux/refile-gridfs/badges/gpa.svg)](https://codeclimate.com/github/Titinux/refile-gridfs)
+
 ## Why?
 
 * You want to store all your data in one place to simplify backups and replication
