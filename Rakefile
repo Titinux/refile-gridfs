@@ -5,5 +5,5 @@ begin
   RSpec::Core::RakeTask.new(:spec)
   task :default => :spec
 rescue LoadError
-  # no rspec available
+  puts 'Error : Rspec must be available to run tests.'
 end

@@ -11,5 +11,5 @@ require "refile/gridfs"
 
 WebMock.disable!(:except => [:codeclimate_test_reporter])
 
-RSpec.configure do |config|
+RSpec.configure do |_config|
 end
