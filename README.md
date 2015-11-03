@@ -31,13 +31,13 @@ Or install it yourself as:
 
 ## Usage with Rails
 
-Generate migration for table were to store list of attachments.
-
-    $ rails g refile:gridfs:migration
-
 Generate initializer and set Refile::Gridfs as `store` backend.
 
     $ rails g refile:gridfs:initializer
+
+## Thanks
+
+This code was greatly inspired from the [refile-postgres](https://github.com/krists/refile-postgres) project.
 
 ## Contributing
 
