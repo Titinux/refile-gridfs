@@ -2,6 +2,7 @@
 
 A Gridfs backend for [Refile](https://github.com/elabs/refile).
 
+[![Gem Version](https://badge.fury.io/rb/refile-gridfs.svg)](https://badge.fury.io/rb/refile-gridfs)
 [![Build Status](https://travis-ci.org/Titinux/refile-gridfs.svg)](https://travis-ci.org/Titinux/refile-gridfs)
 [![Code Climate](https://codeclimate.com/github/Titinux/refile-gridfs/badges/gpa.svg)](https://codeclimate.com/github/Titinux/refile-gridfs)
 
